@@ -20,7 +20,7 @@ public class Mainclass implements Fruit10
     {
         int a1 = 1;
         int b = 1;
-        int c =2;
-System.out.println(a1+b);
+        int c1 =2;
+System.out.println(a1+b+c1);
     }
 }
