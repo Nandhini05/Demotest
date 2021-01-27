@@ -18,8 +18,9 @@ public class Mainclass implements Fruit10
     @Test
     public void calculate()
     {
-        int a = 1;
+        int a1 = 1;
         int b = 1;
-System.out.println(a+b);
+        int c =2;
+System.out.println(a1+b);
     }
 }
